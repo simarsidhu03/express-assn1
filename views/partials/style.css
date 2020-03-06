@@ -36,6 +36,11 @@ li a:hover{
     
 }
 
+.focus{
+	background-color: lightblue;
+	color:black;
+
+}
 .container {
     margin: auto;
     border: #fff solid 5px;
